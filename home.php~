@@ -1,3 +1,11 @@
 <?php
+<<<<<<< HEAD
+	echo "test conflict";
+=======
+	echo "Heloo World";
+	echo "ane fikri bro";
+	echo "hilman yanuar";
 	echo "hilman yanuarrrr";
+	echo "fikri";
+>>>>>>> 8126c7ca630e2c7d6939e3e0de01e1170bb7f739
 ?>
