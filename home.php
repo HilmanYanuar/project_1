@@ -1,3 +1,3 @@
 <?php
-	echo "ane fikri bro";
+	echo "aneee bro";
 ?>
