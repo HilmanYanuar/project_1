@@ -1,12 +1,11 @@
 <?php
 <<<<<<< HEAD
-	echo "Ini codingannya Hilman Yanuar!";
+	echo "test conflict";
 =======
-
+	echo "Heloo World";
 	echo "ane fikri bro";
 	echo "hilman yanuar";
 	echo "hilman yanuarrrr";
 	echo "fikri";
-
->>>>>>> 853983711c4546e4e3bf4105f1c640e5855f00d3
+>>>>>>> 8126c7ca630e2c7d6939e3e0de01e1170bb7f739
 ?>
